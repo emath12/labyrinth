@@ -1,6 +1,6 @@
 # The Labyrinth
 
-Welcome to the Labyrinth! The Labyrinth exists as demonstration of a data_structure I implemented: the sqaurely linked list (SLL). 
+Welcome to the Labyrinth! The Labyrinth exists as demonstration of a data structure I implemented: the sqaurely linked list (SLL). 
 
 Inspired by my data structures class I took at Yale, I wanted to make my own data structure, hence the birth of this project. The data structure I came up
 with is a type of linked list, execept each node is aware of its previous, right, top and bottom node! 

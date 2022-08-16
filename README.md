@@ -3,7 +3,7 @@
 Welcome to the Labyrinth! The Labyrinth exists as demonstration of a data structure I implemented: the sqaurely linked list (SLL). 
 
 Inspired by my data structures class I took at Yale, I wanted to make my own data structure, hence the birth of this project. The data structure I came up
-with is a type of linked list, execept each node is aware of its previous, right, top and bottom node! 
+with is a type of linked list, except each node is aware of its previous, right, top and bottom node! 
 
 Think of an SLL as a 2d grid. Each box on the grid would be a node. Execpt, this grid can have some boxes that are missing. Not all pointers in the SLL are
 valid, that depends on how it was defined.
